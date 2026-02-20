@@ -2,7 +2,7 @@
 # An element is considered a peak if it is greater than both its left and right neighbors.
 # It is guaranteed that the first and last elements are lower than all others.
 
-
+#first problem
 ### Solution:
 
 # the question doesn't ask for highest peak, any peak works 
