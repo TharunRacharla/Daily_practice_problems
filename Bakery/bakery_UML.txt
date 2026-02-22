@@ -1,0 +1,7 @@
+@startuml
+class Bakery {
+    bake()
+    sell()
+        __init__()
+}
+@enduml
